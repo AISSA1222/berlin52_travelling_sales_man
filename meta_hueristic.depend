@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1683630509 source:/home/aissa/metheuristic/meta_hueristic/esclade_simple.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"esclade_simple.h"
+	<algorithm>
+	<iostream>
+	<unistd.h>
+	<sys/resource.h>
+	<time.h>
+	<math.h>
+
+1683629516 source:/home/aissa/metheuristic/meta_hueristic/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iostream>
+	<unistd.h>
+	<sys/resource.h>
+	<time.h>
+	"esclade_simple.h"
+	<math.h>
+
+1683597987 /home/aissa/metheuristic/meta_hueristic/esclade_simple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<algorithm>
+	<iostream>
+	<unistd.h>
+	<sys/resource.h>
+	<time.h>
+
